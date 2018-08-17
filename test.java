@@ -4,6 +4,7 @@ class Test{
 		system.out.println("Hi git");
 		system.out.println("branch2");
 		system.out.println("branch3");
+		system.out.println("add추가");
 	}
 }
 
