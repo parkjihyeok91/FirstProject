@@ -7,6 +7,7 @@ class Test{
 		system.out.println("add추가");
 		add;
 		add2;
+		add3;
 	}
 }
 
